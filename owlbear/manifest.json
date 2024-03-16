@@ -1,0 +1,16 @@
+{
+    "name": "Beyond Initiative Tracker",
+    "version": "0.0.1",
+    "manifest_version": 1,
+    "author": "ivaynberg",
+    "homepage_url": "https://localhost:5173",
+    "icon": "/logo.png",
+    "description": "A basic initiative tracker with a shared view for you and your players",
+    "action": {
+      "title": "Initiative Tracker",
+      "icon": "/icon.svg",
+      "popover": "/",
+      "height": 500,
+      "width": 500
+    }
+  }
