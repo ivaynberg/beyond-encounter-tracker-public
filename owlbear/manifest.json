@@ -2,12 +2,12 @@
     "name": "Beyond Encounter Tracker",
     "version": "0.0.1",
     "manifest_version": 1,
-    "icon": "/beyond-encounter-tracker/owlbear/logo.png",
+    "icon": "/beyond-encounter-tracker-public/owlbear/logo.png",
     "description": "An Encounteer Tracker for DnD Beyond",
     "action": {
       "title": "Encounter Tracker",
-      "icon": "/beyond-encounter-tracker/owlbear/icon.svg",
-      "popover": "/beyond-encounter-tracker/owlbear/index.html",
+      "icon": "/beyond-encounter-tracker-public/owlbear/icon.svg",
+      "popover": "/beyond-encounter-tracker-public/owlbear/index.html",
       "height": 500,
       "width": 500
     }
